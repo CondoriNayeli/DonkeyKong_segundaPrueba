@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{19444AEF-4A83-7B60-D6F6-78845E6940EE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DonkeyKong",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
